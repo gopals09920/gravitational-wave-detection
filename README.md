@@ -5,8 +5,11 @@ A research-grade Python software suite for processing time-series strain data, e
 📸 Interface & Dashboard
 
 1. Main Dashboard Overview
+![Dashboard Overview](assets/dashboard_overview.png)
 2. High Frequency Parameter Tuning
+![High Frequency Analysis](assets/high_frequency_analysis.png)
 3. Synthetic Pipeline Execution
+![Synthetic Pipeline Run](assets/synthetic_pipeline_run.png)
 
 ⚡ Key Features
 
